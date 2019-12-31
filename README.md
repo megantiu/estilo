@@ -58,6 +58,7 @@ Commands:
 - [Oceanic Next](https://github.com/mhartington/oceanic-next) by [@mhartington](https://github.com/mhartington)
 - [Falcon](https://github.com/fenetikm/falcon) by [@fenetikm](https://github.com/fenetikm)
 - [Github](https://github.com/albertorestifo/github.vim) by [@albertorestifo](https://github.com/albertorestifo)
+- [True](https://github.com/megantiu/true.vim) by [@megantiu](https://github.com/megantiu)
 - [add yours](https://github.com/jacoborus/estilo/issues/new)
 
 
